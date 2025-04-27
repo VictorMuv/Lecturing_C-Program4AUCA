@@ -1,0 +1,12 @@
+C programming is a general purpose langauage that was initially build to re-write UNIX operating system.
+Apart from that,more web brousers like  google chrome, mysql, firefox are also written in c. 
+C is a pretty old language created in the 1970 and now we have new languages like javascript, python, etc. However is C outdated?
+The simple answer is no. As much as these new languages have their advantages, C is still relavant. C is very fast and efficient, so if you are working on an alication where efficiency is a must, such as compliers or OS, C is a good choice.
+C also allows us to access the hardware of a computer on a deeper level more than other languages.
+That's why there is still alot of demand in C programming. Many Universities are teaching c as the beginning of programming journey for students. 
+Learning C helps you undersand how the software and hard ware interract with each other as c allows us to work directly with computer memory. Every programmer should learn c programming eventullay. It helps one understand programming from a deeper level perspective. 
+As Joel Spolsky said; if you can understand that 
+
+while (*s++ = *p++)
+
+copies a string, you are programming based on superstition.
