@@ -1,3 +1,18 @@
-*.o
-*.exe
-*.out
+# Ignore executables (files with no extension)
+*
+
+# Allow directories and C files
+!*/
+!*.c
+!*.txt
+!*.md
+!.gitignore
+
+# Ignore unfinished directories
+/03_functions/
+/03_loops/
+/04_arrays/
+/04_structures/
+/05_functions/
+/06_file_io/
+/C_course/
